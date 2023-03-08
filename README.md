@@ -1,2 +1,9 @@
 # Mi-portafolio-Rstudio
-En este apartado se encontraran los diferentes codigos de analisis de datos y bases de datos que he manejado
+
+## Descripción 
+Este es mi portafolio sobre los diferentes proyectos que he realizado en Rstudio y mis avances. Aqui podran encontra diferentes metodos de pronostico, estadistica descriptiva, metodos de analisis de datos. 
+
+## autor- 
+** Jhonatan Hernandez **
+[linkedin] https://www.linkedin.com/in/jhonatan-ivan-hernandez-rojas-153a78245/
+
